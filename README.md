@@ -31,4 +31,5 @@ Following table summarized the routes we will be using.
 	<td>http://localhost:3000/Orgs/<did></td>
 	<td>PUT (pass data in body)</td>
 </tr>
+</table>
 
